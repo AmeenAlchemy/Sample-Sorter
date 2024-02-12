@@ -19,8 +19,10 @@ Legal and Business Compliance: Test tubes are allocated to racks while adhering 
 - Typescript
 - React
 - Redux Toolkit
+- Material UI (V5)
 - React Router
 - Styled Components
+- React Testing Library
 - Webpack
 - Babel
 - ESLint
@@ -34,7 +36,7 @@ Legal and Business Compliance: Test tubes are allocated to racks while adhering 
 - Run tests: `npm run test`
 - Run ESLint: `npm run lint`
 
-### Project Layout
+## Project Layout
 
 ```
 ├── build                       # output from compilation
@@ -59,13 +61,13 @@ Legal and Business Compliance: Test tubes are allocated to racks while adhering 
 
 ```
 
-### Development
+## Development
 
 To start the project in `development` mode, run `npm run start`.
 
 The project runs on port `3000` by default, but this can be changed in `./config/webpack.dev.js`.
 
-### IDE Configuration
+## IDE Configuration
 
 The suggested IDE for this project is VSCode.
 
